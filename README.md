@@ -1,16 +1,13 @@
-## Hi there 👋
+# WilfredUmba Portfolio
 
-<!--
-**Umbawilfred/Umbawilfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a collection of projects demonstrating data analysis, econometrics, and statistical modeling skills. Projects include analysis of economic indicators, survey data, and statistical visualizations using tools such as STATA, R, and Excel.
 
-Here are some ideas to get you started:
+## Projects
+- **Kenya Economic Indicators Analysis:** Examines GDP, inflation, and unemployment trends with visualizations.
+- **Household Survey Data Analysis:** Cleaning, summarizing, and interpreting survey results to extract actionable insights.
+- **Data Visualization Projects:** Graphs and charts illustrating key economic trends and patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- STATA | R | Excel | Data Cleaning | Statistical Modeling | Visualization | Econometrics
+
+This portfolio showcases my ability to turn raw data into insights for research, policy analysis, and decision-making.
